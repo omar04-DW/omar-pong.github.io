@@ -1,0 +1,29 @@
+body {
+    background: linear-gradient(to bottom, hsl(210, 20%, 4%) 0%, #e42121 50%, #df1b14 51%, #10161b 100%);
+}
+
+main {
+    margin: 0 auto;
+    background-color: #fafafa;
+    width: 640px;
+    height: 480px;
+}
+
+h1 {
+    color: #fafafa;
+    text-align: center;
+}
+
+p,
+ul {
+    text-align: center;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+li {
+    display: inline-block;
+}
